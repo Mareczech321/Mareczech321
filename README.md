@@ -16,14 +16,13 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 
-<div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mareczech321&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mareczech321&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mareczech321&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mareczech321&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Mareczech321&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />&nbsp;
+<img src="https://nirzak-streak-stats.vercel.app/?user=Mareczech321&theme=shadow_red&hide_border=false" alt="Streak Stats" height="150" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mareczech321&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" height="150" />&nbsp;
+<img src="https://github-contributor-stats.vercel.app/api?username=Mareczech321&limit=5&theme=shadow_red&combine_all_yearly_contributions=true" alt="Top Contributed Repo" height="150" />
+
 </div>
 
 ### ✍️ Random Dev Quote
