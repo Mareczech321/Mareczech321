@@ -32,24 +32,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/marekmulac123?igsh=MTUzODl6Z3hxbHg1ag==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/mareczech123" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=@mareczech123&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  ## 🌐 Socials:
+  [![@mareczech123](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marekmulac123) 
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mareczech321/Mareczech321/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mareczech321/Mareczech321/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mareczech321/Mareczech321/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
@@ -61,9 +47,7 @@
 
 <div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mareczech123d) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marekmulac123) 
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
