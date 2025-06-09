@@ -1,4 +1,10 @@
 ###
+<span align='center'>
+  # 🌐 Socials:
+  ![@mareczech123](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
+  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
+</span>
+###
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -28,11 +34,7 @@
   <a href="https://tracker.gg/valorant/profile/riot/Mareczech%23GNAG/overview"><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"></img></a>
 </div>
 
-###
 
-# 🌐 Socials:
-![@mareczech123](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
 
 ###
 
