@@ -18,10 +18,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mareczech321&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />&nbsp;
-<img src="https://nirzak-streak-stats.vercel.app/?user=Mareczech321&theme=shadow_red&hide_border=false" alt="Streak Stats" height="150" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mareczech321&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" height="150" />&nbsp;
-<img src="https://github-contributor-stats.vercel.app/api?username=Mareczech321&limit=5&theme=shadow_red&combine_all_yearly_contributions=true" alt="Top Contributed Repo" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mareczech321&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>&nbsp;
+<img src="https://nirzak-streak-stats.vercel.app/?user=Mareczech321&theme=shadow_red&hide_border=false" alt="Streak Stats"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mareczech321&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs"/>&nbsp;
+<img src="https://github-contributor-stats.vercel.app/api?username=Mareczech321&limit=5&theme=shadow_red&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 
 </div>
 
