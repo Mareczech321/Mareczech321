@@ -36,6 +36,8 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Mareczech321/Mareczech321/output/snake.svg" alt="Snake animation" />
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mareczech321&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>&nbsp;
