@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mareczech321&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mareczech321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mareczech321&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mareczech321&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs"/>&nbsp;
+
 </div>
 
 ###
@@ -70,11 +72,3 @@
 <a href="https://r6.tracker.network/r6siege/profile/ubi/Mareczech123/overview"><img src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black"></img></a>
 <a href="https://steamcommunity.com/id/Mareczech123/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></img></a>
 <a href="https://tracker.gg/valorant/profile/riot/Mareczech%23GNAG/overview"><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"></img></a>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mareczech321&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>&nbsp;
-<img src="https://nirzak-streak-stats.vercel.app/?user=Mareczech321&theme=shadow_red&hide_border=false" alt="Streak Stats"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mareczech321&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs"/>&nbsp;
-
-</div>
