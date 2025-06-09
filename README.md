@@ -35,17 +35,15 @@
 
 ###
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mareczech321.Mareczech321&"  />
-</div>
-
-###
-
-<div align="center">
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mareczech321&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mareczech321&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs"/>&nbsp;
 
+</div>
+
+###
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mareczech321.Mareczech321&"  />
 </div>
