@@ -2,7 +2,7 @@
 <h1 align='center'>🌐 Socials:</h1>
 <div align='center'>
   <img src='https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white'></img>
-  <img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white'><a href='https://instagram.com/marekmulac123'></img>
+  <a href='https://instagram.com/marekmulac123'><img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white'></img></a>
 </div>
 
 ###
