@@ -40,6 +40,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Mareczech321/Mareczech321/output/github-snake.svg" />
 </picture>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mareczech321&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs"/>&nbsp;
+</div>
+
 ###
 
 <div align="right">
