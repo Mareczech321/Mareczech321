@@ -28,11 +28,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <br>
-  <img src='https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white'></img>
-  <img src='https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white'></img>
-  <a href="https://r6.tracker.network/r6siege/profile/ubi/Mareczech123/overview"><img src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black"></img></a>
-  <a href="https://steamcommunity.com/id/Mareczech123/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></img></a>
-  <a href="https://tracker.gg/valorant/profile/riot/Mareczech%23GNAG/overview"><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"></img></a>
 </div>
 
 
